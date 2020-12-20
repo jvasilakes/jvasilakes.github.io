@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   PhD student in NLP at the University of Manchester.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jvasilakes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "dark"
 
 author:
         #name: "Jake Vasilakes"
@@ -51,8 +51,10 @@ twitter_username: VasilakJ
 github_username:  jvasilakes
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-redirect-from
 
