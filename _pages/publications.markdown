@@ -8,6 +8,10 @@ See all my publications on my [CV](/_assets/jakevasilakes.pdf/)
 First Author Publications
 ---------------------------------------------------------------------------
 
+Vasilakes, J., Zhou, S., Zhang, R., 2020.
+[Natural Language Processing](/_assets/pubs/NLP_chapter_draft.pdf),
+in Al’Aref, S., Singh, G., Baskaran, L.,Metaxas, D.eds. Machine Learning for Cardiovascular Medicine. Elsevier.
+
 Vasilakes, J., Bompelli, A., Bishop J.R., Adam, T.J., Bodenreider O., Zhang, R., 2020.
 [Assessing the Enrichment of Dietary Supplement Coverage in the Unified Medical Language System](/_assets/pubs/UMLS_DS_coverage.pdf).
 Journal of the American Medical Informatics Association (JAMIA).
