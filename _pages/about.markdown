@@ -5,7 +5,7 @@ redirect_from:
   - /
 ---
 
-I am a first year PhD student at the [National Centre for Text Mining](http://nactem.ac.uk/) (NaCTeM) at the
+I am a second year PhD student at the [National Centre for Text Mining](http://nactem.ac.uk/) (NaCTeM) at the
 University of Manchester advised by Prof Sophia Ananiadou. 
 
 My broad research goal is to use NLP to improve access
@@ -13,7 +13,9 @@ to scientific knowledge by automatically extracting information from scientific 
 Specifically, I'm interested in how to properly account for modality (such as negation and uncertainty) when
 extracting scientific claims. This interest extends into questions regarding knowledge representation and text generation as well.
 
-See my [Research](/research/) page for more details.
 
-Outside of the PhD, you might find me riding my gravel bike, baking sourdough bread, playing Dungeons & Dragons, and
-trying to get good at [5D chess](https://www.5dchesswithmultiversetimetravel.com/).
+# News
+
+ * (July 2022) NaCTeM participated in the [n2c2 2022 challenge on contextualized information extraction](https://n2c2.dbmi.hms.harvard.edu/2022-track-1). Our code is now publicly available [here](https://github.com/jvasilakes/n2c2-track1).
+ * (May 2022) The culmination of my first-year PhD work on disentangled text representation learning has been published in ACL 2022! Check out the [paper](https://aclanthology.org/2022.acl-long.574/) and [code](https://github.com/jvasilakes/disentanglement-vae)
+ * (October 2020) I have begun my PhD at the University of Manchester and am honored to have won the competetive [President's Doctoral Scholar award](https://www.presidentsaward.manchester.ac.uk/)!
