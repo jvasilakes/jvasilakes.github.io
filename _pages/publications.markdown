@@ -7,6 +7,9 @@ See all my publications on my [CV](/_assets/jakevasilakes.pdf/)
 
 First Author Publications
 ---------------------------------------------------------------------------
+Vasilakes, J., Zerva, C., Miwa, M., & Ananiadou, S. 2022.
+[Learning Disentangled Representations of Negation and Uncertainty](https://aclanthology.org/2022.acl-long.574/).
+In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 8380-8397).
 
 Vasilakes, J., Zhou, S., Zhang, R., 2020.
 [Natural Language Processing](/_assets/pubs/NLP_chapter_draft.pdf),
