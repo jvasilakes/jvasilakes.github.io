@@ -17,5 +17,6 @@ extracting scientific claims. This interest extends into questions regarding kno
 # News
 
  * (July 2022) NaCTeM participated in the [n2c2 2022 challenge on contextualized information extraction](https://n2c2.dbmi.hms.harvard.edu/2022-track-1). Our code is now publicly available [here](https://github.com/jvasilakes/n2c2-track1).
- * (May 2022) The culmination of my first-year PhD work on disentangled text representation learning has been published in ACL 2022! Check out the [paper](https://aclanthology.org/2022.acl-long.574/) and [code](https://github.com/jvasilakes/disentanglement-vae)
+ * (June 2022) Work with my colleagues at the University of Minnesota on discovering novel dietary supplement interactions from the scientific literature has been published in the Journal of Biomedical Informatics! Read it [here](https://www.sciencedirect.com/science/article/pii/S1532046422001368).
+ * (May 2022) The culmination of my first-year PhD work on disentangled text representation learning has been published in ACL 2022! Check out the [paper](https://aclanthology.org/2022.acl-long.574/) and [code](https://github.com/jvasilakes/disentanglement-vae).
  * (October 2020) I have begun my PhD at the University of Manchester and am honored to have won the competetive [President's Doctoral Scholar award](https://www.presidentsaward.manchester.ac.uk/)!
