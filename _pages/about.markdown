@@ -5,7 +5,7 @@ redirect_from:
   - /
 ---
 
-I am a second year PhD student at the [National Centre for Text Mining](http://nactem.ac.uk/) (NaCTeM) at the
+I am a third year PhD student at the [National Centre for Text Mining](http://nactem.ac.uk/) (NaCTeM) at the
 University of Manchester advised by Prof Sophia Ananiadou. 
 
 My broad research goal is to use NLP to improve access
@@ -16,6 +16,7 @@ extracting scientific claims. This interest extends into questions regarding kno
 
 # News
 
+ * (March 2023) An extension of our work for the n2c2 shared task has been accepted for publication in the Journal of Biomedical Informatics!
  * (July 2022) I attended the [LxMLS](http://lxmls.it.pt/2022/) machine learning summer school in Lisbon, Portugal.
  * (July 2022) NaCTeM participated in the [n2c2 2022 challenge on contextualized information extraction](https://n2c2.dbmi.hms.harvard.edu/2022-track-1), to appear at AMIA 2022. Our code is now publicly available [here](https://github.com/jvasilakes/n2c2-track1).
      * (Nov 2022) Our system got third place in the end-to-end NER + Event Detection + Context Classification task!
