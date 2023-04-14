@@ -7,9 +7,9 @@ See all my publications on my [CV](/_assets/jakevasilakes.pdf/)
 
 First Author Publications
 ---------------------------------------------------------------------------
-Vasilakes, J.\*, Georgiadis, P.\*, Nguyen, N., Miwa, M., & Ananiadou, S. 2023.
-[Contextualized Medication Event Extraction with Levitated Markers](/_assets/pubs/levitated_context_markers.pdf).
-to appear in the Journal of Biomedical Informatics (JBI).
+Vasilakes, J., Georgiadis, P., Nguyen, N.T., Miwa, M. and Ananiadou, S., 2023.
+[Contextualized medication event extraction with levitated markers](https://doi.org/10.1016/j.jbi.2023.104347).
+Journal of Biomedical Informatics, p.104347.
 
 Vasilakes, J., Zerva, C., Miwa, M., & Ananiadou, S. 2022.
 [Learning Disentangled Representations of Negation and Uncertainty](https://aclanthology.org/2022.acl-long.574/).
