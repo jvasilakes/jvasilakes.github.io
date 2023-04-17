@@ -3,7 +3,7 @@ layout: single
 permalink: /publications/
 ---
 
-See all my publications on my [CV](/_assets/jakevasilakes.pdf/)
+See all my publications on my [CV](/_assets/jakevasilakes.pdf)
 
 First Author Publications
 ---------------------------------------------------------------------------
