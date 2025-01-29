@@ -3,10 +3,14 @@ layout: single
 permalink: /publications/
 ---
 
-See all my publications on my [CV](/_assets/jakevasilakes.pdf)
+See all my publications on my [Google Scholar](https://scholar.google.com/citations?user=kxAdCsoAAAAJ&hl=en)
 
 First Author Publications
 ---------------------------------------------------------------------------
+Vasilakes, J., Zhao, Z., Vykopal, I., Gregor, M., Hyben, M., and Scarton, C., 2024
+[ExU: AI Models for Examining Multilingual Disinformation Narratives and Understanding their Spread](https://aclanthology.org/2024.eamt-2.20/)
+In Proceedings of the 25th Annual Conference of the European Association for Machine Translation (Volume 2) (pp. 39-40)
+
 Vasilakes, J., Georgiadis, P., Nguyen, N.T., Miwa, M. and Ananiadou, S., 2023.
 [Contextualized medication event extraction with levitated markers](https://doi.org/10.1016/j.jbi.2023.104347).
 Journal of Biomedical Informatics, p.104347.
